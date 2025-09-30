@@ -26,7 +26,7 @@ A deep learning framework (TensorFlow, PyTorch, etc.)
 
 Installation
 Clone the repository:
-git clone https://github.com/selva-4434/object-detection-project.git
+git clone https://github.com/selva-4434/Object-Detection.git
 cd object-detection-project
 Install the dependencies:
 pip install -r requirements.txt
